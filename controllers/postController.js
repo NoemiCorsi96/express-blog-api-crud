@@ -98,3 +98,5 @@ module.exports = {
     modify,
     destroy
 }
+//fare le prove con Postman per vedere se funziona
+//Con Postman funziona! 
